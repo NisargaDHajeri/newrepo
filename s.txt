@@ -1,0 +1,4 @@
+git-global information tracker
+globally used
+used to intearact with other collaborators
+
